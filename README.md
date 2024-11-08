@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Qavi</h1>
-<h3 align="center">Engineer</h3>
+<h3 align="center">Computer science Engineer</h3>
 
 
-- 🌱 I’m currently learning *Machine Learning *
+- 🌱 MERN stack dev | Machine Learning | Deep Learning |*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
