@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Qavi</h1>
-<h3 align="center">Computer science Engineer</h3>
+<h3 align="center">Computer Science Engineer</h3>
 
 
-- 🌱 MERN stack dev | Machine Learning | Deep Learning |*
+- 🌱 MERN stack dev | Machine Learning | Deep Learning | Digital Marketing-SEO, Google Ads *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
