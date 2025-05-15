@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Engineer</h3>
 
 
-- 🌱 MERN stack dev | Machine Learning | Deep Learning | Digital Marketing-SEO, Google Ads *
+- 🌱 MERN stack dev | Machine Learning | Digital Marketing-SEO, Google Ads *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
